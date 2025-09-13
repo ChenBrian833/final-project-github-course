@@ -1,0 +1,11 @@
+# Ignorar archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Ignorar archivos ocultos del sistema
+.DS_Store
+
+# Ignorar archivos compilados
+*.out
+*.o
